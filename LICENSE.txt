@@ -1,0 +1,2 @@
+This game includes a copy of the ONScripter-EN binary.
+https://github.com/Galladite27/ONScripter-EN

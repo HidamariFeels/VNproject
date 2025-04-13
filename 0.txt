@@ -1,0 +1,24 @@
+*define
+language english
+textspeed 50
+
+game
+*start
+
+mp3loop "ost/ost1.mp3"
+
+bg "bgs/bg1.png"
+
+"I feel a storm, a mixture of different shades." @
+br
+
+"I feel the shadows of the unconscious reaping among these ambiguous realms." @
+br
+
+"It's almost like a whirl of temporary yet eternal sentiments has blessed and cursed my soul." @
+br
+
+"I drift around, in these different towns, bleeding.. with sentimentality." @
+br
+
+"test"
