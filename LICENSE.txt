@@ -1,2 +1,5 @@
 This game includes a copy of the ONScripter-EN binary.
 https://github.com/Galladite27/ONScripter-EN
+
+This game uses SDL3, which is distributed under the zlib license.
+https://github.com/libsdl-org/SDL/releases/tag/release-3.2.10
